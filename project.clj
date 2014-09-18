@@ -1,4 +1,4 @@
-(defproject mkremins/dep-graph "0.1.0-SNAPSHOT"
+(defproject mkremins/dep-graph "0.1.0"
   :description "Dependency graph datastructure for Clojure and ClojureScript"
   :url "https://github.com/mkremins/dep-graph"
   :license {:name "Eclipse Public License 1.0"
