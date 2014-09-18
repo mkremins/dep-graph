@@ -5,6 +5,15 @@ A simple dependency graph datastructure for Clojure and ClojureScript.
 
 This code was originally written by Stuart Sierra for [tools.namespace](https://github.com/clojure/tools.namespace). I've merely extracted it from that library and made it usable from CLJS.
 
+Usage
+----------------------------------------
+
+Add to your `project.clj`:
+
+```clojure
+[mkremins/dep-graph "0.1.0"]
+```
+
 Copyright and License
 ----------------------------------------
 
